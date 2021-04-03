@@ -9,5 +9,5 @@ This is a project based on an Arduino board that reads data from a bluetooth mod
 3. individually adresable RGB LED strip (WS2811 driver)
 4. 1000 μF capacitor
 5. 300 ohm resistor
-6. 12 V power suply
+6. 12 V power supply
 7. jumper wires
