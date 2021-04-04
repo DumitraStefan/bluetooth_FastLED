@@ -11,3 +11,7 @@ This is a project based on an Arduino board that reads data from a bluetooth mod
 5. 300 ohm resistor
 6. 12 V power supply
 7. jumper wires
+
+### Schematics
+
+![Sketck](https://github.com/DumitraStefan/bluetooth_FastLED/blob/main/rsc/sketch.png)
